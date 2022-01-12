@@ -1,0 +1,24 @@
+:py:mod:`pycounts.plotting`
+===========================
+
+.. py:module:: pycounts.plotting
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   pycounts.plotting.plot_words
+
+
+
+.. py:function:: plot_words(word_counts, n=10)
+
+   Plot a bar chart of word counts.
+
+
